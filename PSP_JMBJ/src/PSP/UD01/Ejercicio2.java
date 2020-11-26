@@ -9,7 +9,7 @@ public class Ejercicio2 {
 	public static void main(String[] args) {
 
 		Runtime runTime = Runtime.getRuntime();
-		String cmd = "ls -l";
+		String cmd = "ls src";
 		Process p = null;
 
 		Process out;
